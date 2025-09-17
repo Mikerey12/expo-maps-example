@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "expo-maps-example",
-    "slug": "expo-maps-example",
+    "slug": "expomaps",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -29,7 +29,7 @@
           "apiKey": "your-api-key-here"
         }
       },
-      "package": "com.betoatexpo.expomapsexample"
+      "package": "com.mikerey12.expomaps"
     },
     "web": {
       "bundler": "metro",
@@ -61,9 +61,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "6a197334-3cdd-4185-894d-a463608b290a"
+        "projectId": "36b509aa-ca5c-42ba-a6fb-c8ee7cf8c300"
       }
     },
-    "owner": "betoatexpo"
+    "owner": "mikerey12"
   }
 }
